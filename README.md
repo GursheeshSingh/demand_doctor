@@ -1,16 +1,14 @@
-# demand_doctor
+# Doctor on Demand
 
-A new Flutter application.
+Based on -[here](https://www.behance.net/gallery/77208359/Doctor-On-Demand-l-UIUX?tracking_source=project_owner_other_projects)
 
-## Getting Started
+## Helpful blogs
 
-This project is a starting point for a Flutter application.
+https://medium.com/@singhgursheesh12/common-bottom-navigation-bar-made-easy-flutter-199c9f683b29
 
-A few resources to get you started if this is your first Flutter project:
+https://medium.com/@singhgursheesh12/common-bottom-navigation-bar-flutter-e3693305d2d
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Demo
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Demo]( screenshots/doctor_demo.gif "Demo")
+
